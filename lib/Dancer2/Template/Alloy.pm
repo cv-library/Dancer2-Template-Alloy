@@ -9,6 +9,8 @@ use Template::Alloy;
 
 with 'Dancer2::Core::Role::Template';
 
+our $VERSION = '0.001';
+
 sub _build_engine {
     my $self = shift;
 
