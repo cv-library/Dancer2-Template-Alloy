@@ -4,7 +4,7 @@ package Dancer2::Template::Alloy;
 
 =head1 SYNOPSIS
 
-To use this engine you may configure Dacner2 via "config.yml":
+To use this engine you may configure Dancer2 via "config.yml":
 
     template: "alloy"
 
