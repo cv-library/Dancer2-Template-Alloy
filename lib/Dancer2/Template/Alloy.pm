@@ -14,7 +14,8 @@ Template::Alloy object can be passed via the configuration.
     template: "alloy"
     engines:
       template:
-        AUTO_FILTER: html
+        Alloy:
+          AUTO_FILTER: html
 
 The following variables are defaulted, they can be overriden.
 
