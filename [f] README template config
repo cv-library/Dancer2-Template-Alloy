@@ -18,7 +18,8 @@ SYNOPSIS
         template: "alloy"
         engines:
           template:
-            AUTO_FILTER: html
+            alloy:
+              AUTO_FILTER: html
 
     The following variables are defaulted, they can be overriden.
 
